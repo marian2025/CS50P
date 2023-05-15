@@ -1,6 +1,6 @@
 # CS50’s Introduction to Programming with Python
 
-These are my solutions for CS50's Introduction to Programming with Python 2022.
+Problem sets with my solutions for CS50's Introduction to Programming with Python aka CS50P.
 
 ## Disclaimer:
 
