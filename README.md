@@ -10,4 +10,4 @@ Problem sets with my solutions for [CS50's Introduction to Programming with Pyth
 
 ## Certificate:
 
-![CS50 Certificate](https://certificates.cs50.io/0d52e487-2b07-42f7-858e-4ebe71f10cf1.png?size=letter)
+![CS50 Certificate](https://certificates.cs50.io/0d52e487-2b07-42f7-858e-4ebe71f10cf1.pdf?size=letter)
